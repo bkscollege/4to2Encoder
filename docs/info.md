@@ -17,4 +17,4 @@ Change the inputs and the outputs will change accordingly.
 
 ## External hardware
 
-LEDs, Logic Gates, Switches
+LEDs, Switches
