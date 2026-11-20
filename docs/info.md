@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Combinational logic is used (through AND and OR gates) to encode 4 binary inputs into 2 outputs.
 
 ## How to test
 
-Explain how to use your project
+Change the inputs and the outputs will change accordingly.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LEDs, Logic Gates, Switches
